@@ -48,8 +48,6 @@ By @StarkBots
     ABOUT = """
 **About This Bot** 
 
-Telegram Bot to generate Pyrogram and Telethon string session by @StarkBots
-
 Source Code : [Click Here](https://github.com/StarkBotsIndustries/StringSessionBot)
 
 Framework : [Pyrogram](https://docs.pyrogram.org)
